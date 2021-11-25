@@ -6,7 +6,7 @@ public class Seventeen {
 		System.out.println("Seventeen");
 	}
 	
-	
+	// make a note
 	public static void add(int i, int y) {
 		System.out.println(i);
 		System.out.println(y);
