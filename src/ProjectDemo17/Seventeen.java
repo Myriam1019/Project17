@@ -10,6 +10,10 @@ public class Seventeen {
 	public static void add(int i, int y) {
 		System.out.println(i);
 		System.out.println(y);
+		
+		
+		System.out.println(i+y);
+		System.out.println(i-y);
 	}
 }
 	
