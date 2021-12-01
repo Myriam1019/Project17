@@ -14,6 +14,8 @@ public class Seventeen {
 		
 		System.out.println(i+y);
 		System.out.println(i-y);
+		
+		System.out.println("Christmas shopping...");
 	}
 }
 	
